@@ -1,0 +1,23 @@
+
+.contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 10px;
+    
+    
+    
+}
+label{
+    font-weight: 800;
+    font-size: 20px;
+    
+}
+input{
+    border: none;
+    font-size: 18px;
+    border-radius: 3px;
+    outline: none;
+
+}
+

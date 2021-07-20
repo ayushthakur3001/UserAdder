@@ -1,0 +1,19 @@
+button{
+    width: 100px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+    
+    
+}
+
+button:hover{
+    background-color: purple;
+    transition: 0.7s ease-in-out;
+    cursor: pointer;
+
+
+}

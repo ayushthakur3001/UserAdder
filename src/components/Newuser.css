@@ -1,0 +1,10 @@
+.newuser{
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    background-color: rgb(37, 35, 35);;
+    color: white;
+    width: 90%;
+    border-radius: 3px;
+    margin: 10px;
+}
