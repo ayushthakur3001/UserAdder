@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UserAdder/static/css/main.ddee4148.chunk.css",
+    "main.js": "/UserAdder/static/js/main.2e9518a0.chunk.js",
+    "main.js.map": "/UserAdder/static/js/main.2e9518a0.chunk.js.map",
+    "runtime-main.js": "/UserAdder/static/js/runtime-main.978f43fc.js",
+    "runtime-main.js.map": "/UserAdder/static/js/runtime-main.978f43fc.js.map",
+    "static/js/2.532e4153.chunk.js": "/UserAdder/static/js/2.532e4153.chunk.js",
+    "static/js/2.532e4153.chunk.js.map": "/UserAdder/static/js/2.532e4153.chunk.js.map",
+    "index.html": "/UserAdder/index.html",
+    "static/css/main.ddee4148.chunk.css.map": "/UserAdder/static/css/main.ddee4148.chunk.css.map",
+    "static/js/2.532e4153.chunk.js.LICENSE.txt": "/UserAdder/static/js/2.532e4153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.978f43fc.js",
+    "static/js/2.532e4153.chunk.js",
+    "static/css/main.ddee4148.chunk.css",
+    "static/js/main.2e9518a0.chunk.js"
+  ]
+}
